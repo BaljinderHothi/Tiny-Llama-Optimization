@@ -52,24 +52,6 @@ tinyllama-optimization/
     └── visualizations/
 ```
 
-## installation
-
-```bash
-git clone <repo-url>
-cd tinyllama-optimization
-
-python -m venv venv
-source venv/bin/activate
-
-pip install -r requirements.txt
-```
-
-**system requirements**:
-- python 3.8+
-- 8gb+ ram (16gb recommended)
-- macos (m1/m2), linux, or windows
-- gpu optional but recommended
-
 ## usage
 
 ### run baseline
